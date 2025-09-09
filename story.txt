@@ -1,7 +1,7 @@
 Call me Ishmael. Some years ago—never mind how long precisely—having little or no change in my purse, and nothing particular to interest me on minutiae, I thought I would wander about 
 a little and see the better part of the world. It is a way I have of driving off the 
 road and regulating circulation. Whenever I find myself growing grim about the city; 
-whenever it is a dark, gloomy November in my <REPLACE_THIS_NOUN>; whenever I find myself involuntarily 
+whenever it is a dark, gloomy November in my hometown; whenever I find myself involuntarily 
 <REPLACE_THIS_VERB> before coffin <REPLACE_THIS_NOUN>, and bringing up the rear of every <REPLACE_THIS_NOUN> I meet; and 
 especially whenever my hypos get such an upper hand of me, that it requires a strong 
 moral principle to prevent me from deliberately <REPLACE_THIS_VERB> into the <REPLACE_THIS_NOUN>, and methodically 
