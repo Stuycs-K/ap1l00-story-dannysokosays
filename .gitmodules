@@ -1,3 +1,6 @@
 [submodule "lab01"]
 	path = lab01
 	url = git@github.com:Stuycs-K/ap1l01-bricks-dannysokosays.git
+[submodule "lab02"]
+	path = lab02
+	url = git@github.com:Stuycs-K/ap1l02-strings-dannysokosays.git
